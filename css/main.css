@@ -2830,6 +2830,7 @@ html.no-csstransitions .hero-content {
   padding-bottom: 0;
   background-color: #ffffff;
   position: relative;
+  padding-bottom: 10px;
 }
 
 .s-portfolio::before {
