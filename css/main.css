@@ -2476,6 +2476,10 @@ html.no-csstransitions .hero-content {
   left: calc(50% + 12vw);
 }
 
+.summery{
+  text-align: justify;
+}
+
 .s-about__section--profile .row {
   position: relative;
 }
